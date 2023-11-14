@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eslam Abdou</h1>
-<h3 align="center">A passionate fullstack developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Eslam Abdou, I make web apps</h1>
 
 - 🔭 I’m currently working on [MedSpacess](https://www.medspacess.com/)
 
